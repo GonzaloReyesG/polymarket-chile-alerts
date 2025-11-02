@@ -113,7 +113,7 @@ def main():
             <tbody>{rows_html}</tbody>
           </table>
 
-          <p style="margin:14px 0 0 0; color:#666;">📅 Polymarket · Render Job · Script educativo 🚀</p>
+          <p style="margin:14px 0 0 0; color:#666;">📅 Polymarket · Github actions · Mail Alerts 🚀</p>
         </div>
         """
 
