@@ -13,7 +13,7 @@ EVENT_ID = 23947
 TOP_N = 15
 
 ALERT_RULES = [
-    {"name": "Evelyn Matthei", "type": "price_lt", "threshold": 0.047},
+    {"name": "Evelyn Matthei", "type": "price_lt", "threshold": 0.077},
     {"name": "Jeannette Jara", "type": "prob_lt", "threshold": 0.12},
 ]
 
