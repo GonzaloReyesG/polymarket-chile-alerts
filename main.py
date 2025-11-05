@@ -13,8 +13,8 @@ EVENT_ID = 23947
 TOP_N = 15
 
 ALERT_RULES = [
-    {"name": "Evelyn Matthei", "type": "price_lt", "threshold": 0.041},
-    {"name": "Jeannette Jara", "type": "prob_lt", "threshold": 0.13},
+    {"name": "Evelyn Matthei", "type": "price_lt", "threshold": 0.033},
+    {"name": "Jeannette Jara", "type": "prob_lt", "threshold": 0.135},
 ]
 
 def _liq(m):
