@@ -14,7 +14,7 @@ TOP_N = 15
 
 ALERT_RULES = [
     {"name": "Evelyn Matthei", "type": "price_lt", "threshold": 0.016},
-    {"name": "Jeannette Jara", "type": "prob_lt", "threshold": 0.143},
+    {"name": "Jeannette Jara", "type": "prob_lt", "threshold": 0.133},
 ]
 
 def _liq(m):
